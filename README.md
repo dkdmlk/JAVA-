@@ -77,7 +77,7 @@
             System.out.println(a1.count); // 답 :   10
             System.out.println(a1.temp); // 답 :    20
 
-            System.out.println(a2.count); // 답 :   20
+            System.out.println(a2.count); // 답 :   30
             System.out.println(a2.temp); // 답 :    20
         }
     }
